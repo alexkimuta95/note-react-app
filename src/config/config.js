@@ -1,4 +1,4 @@
-export const  DB_CONFIG = {
+export const DB_CONFIG = {
     apiKey: "AIzaSyCzKp7xTx7SRJKEV6qd2z-XDTyqTLlHst8",
     authDomain: "notes-app-react-74bd8.firebaseapp.com",
     databaseURL: "https://notes-app-react-74bd8.firebaseio.com",

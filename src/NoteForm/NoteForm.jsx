@@ -27,7 +27,7 @@ export class NoteForm extends Component {
     render() {
         return (
             <div className="formWrapper">
-                <input className="noteInput" placeholder="Add Note here.."
+                <input className="noteInput" type="text" placeholder="Add Note here.."
                   value={this.state.newNoteContent} 
                   onChange={this.handleUserInput} 
                 />
